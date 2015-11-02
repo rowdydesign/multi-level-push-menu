@@ -6,7 +6,10 @@
     "Momčilo Džunić <it@make.rs>"
   ],
   "description": "Cross-browser compatible jQuery plug-in allowing endless nesting of navigation elements.",
-  "main": "jquery.multilevelpushmenu.js",
+  "main": [
+    "jquery.multilevelpushmenu.js",
+    "jquery.multilevelpushmenu.css"
+  ],
   "keywords": [
     "menu",
     "multi-level",
